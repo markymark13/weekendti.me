@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans";
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+header {
+
+  background-color: #940229;
+  color: white;
+}
+
+h3 {
+
+	font-size: 34px;
+}
